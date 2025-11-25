@@ -1,0 +1,3 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+U2,LSM6DS3,LGA-14_3x2.5mm_P0.5mm_LayoutBorder3x4y,78.0,-103.5,0.0,top
+U3,RP2040,QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm,87.4,-100.0,0.0,top

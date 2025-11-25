@@ -4978,10 +4978,6 @@
 		(uuid "a4021980-1db1-4080-bf36-0ab4ffe1e7e1")
 	)
 	(no_connect
-		(at 254 119.38)
-		(uuid "b0392963-6ecd-4694-b87e-948a20d82aad")
-	)
-	(no_connect
 		(at 254 137.16)
 		(uuid "b483e8ff-2e3c-4174-a7a0-be845ca00ed9")
 	)

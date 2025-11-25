@@ -1,0 +1,12 @@
+Front (top side) placement file: 'C:\Users\Tom\Documents\Projects\dashcam-power\DashcamPower-top.pos'.
+Info: Component count: 31.
+Back (bottom side) placement file: 'C:\Users\Tom\Documents\Projects\dashcam-power\DashcamPower-bottom.pos'.
+Info: Component count: 20.
+Info: Full component count: 51.
+Info: Done.
+Front (top side) placement file: 'C:\Users\Tom\Documents\Projects\dashcam-power\DashcamPower-top.pos'.
+Info: Component count: 31.
+Back (bottom side) placement file: 'C:\Users\Tom\Documents\Projects\dashcam-power\DashcamPower-bottom.pos'.
+Info: Component count: 20.
+Info: Full component count: 51.
+Info: Done.
